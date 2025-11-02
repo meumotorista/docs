@@ -16,3 +16,6 @@ Go (Golang): Implementado em alguns serviços críticos de desempenho, oferecend
 Java: Também aproveitado no backend por sua robustez e por seu vasto ecossistema de bibliotecas e ferramentas. 
 Outras Linguagens
 C++: Ferramentas de alta performance e de baixo nível, como algumas bibliotecas de sistema e infraestrutura, podem ser escritas em C++ quando alta eficiência e velocidade são cruciais.
+
+## Montagem da base
+## 1 - Git Base Aplicativo - https://github.com/eliasef/uber-clone
