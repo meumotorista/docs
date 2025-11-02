@@ -19,3 +19,13 @@ C++: Ferramentas de alta performance e de baixo nível, como algumas bibliotecas
 
 ## Montagem da base
 ## 1 - Git Base Aplicativo - https://github.com/eliasef/uber-clone
+
+## SUPABASE
+https://supabase.com/dashboard/project/yxpoedpyqmhyqzifgdyq
+onmoveapp@gmail.com
+vaxjib-jumpat-dikjU3
+
+## conexão
+sgMnrUIJ6xnnNogP
+
+## EMail - onmoveapp@gmail.com - xonquv-kUtpyc-0vufwu
