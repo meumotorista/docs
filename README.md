@@ -82,3 +82,5 @@ Vamos juntos transformar a mobilidade urbana! 🚀
 
 John Tayronne
 FlashX Mobilidade Urbana
+
+## 3. Termo de modelo de termo de privacidade - Procurar no google
