@@ -33,6 +33,8 @@ sgMnrUIJ6xnnNogP
 ## URL Apis:
 https://meumotorista-api-json.vercel.app/
 
+## Projeto - Velox - https://claude.ai/public/artifacts/13641f3b-a103-43ef-a9be-cb392e6e8f18
+
 ## Publicação de Aplicativo
 ## 1) Você precisa entrar no grupo do google. https://groups.google.com/g/clube-de-testadores O e-mail que você  entrar no grupo deve ser o mesmo da play store
 ## 2) Exemplo de Teste
